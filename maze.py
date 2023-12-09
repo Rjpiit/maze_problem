@@ -1,4 +1,4 @@
-# finding all possible paths for maze problem
+# finding possible paths for maze problem
 import numpy as np
 def verify_position(arr, x, y ):
     if x >= 0 and x < row:
